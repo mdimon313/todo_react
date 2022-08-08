@@ -40,7 +40,7 @@ function AddForm() {
           className={style.input}
         />
         <button type="submit" className={style.button}>
-          Add
+          +
         </button>
       </form>
     </>
