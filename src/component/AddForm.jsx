@@ -25,7 +25,7 @@ function AddForm() {
     heading: `text-center mb-3 capitalize text-3xl font-bold text-slate-700 dark:text-slate-200`,
     form: `flex items-cener justify-between`,
     input: `w-full p-2 rounded-md border border-gray-400 bg-slate-300 dark:bg-slate-500 focus:outline-none text-gray-800 dark:text-white`,
-    button: `ml-3 bg-slate-400 dark:bg-slate-500 px-4 rounded-md text-white cursor-pointer hover:bg-slate-400 transition-all text-2xl`,
+    button: `ml-3 bg-slate-400 dark:bg-slate-500 px-4 rounded-md text-white cursor-pointer hover:bg-slate-400 transition-all text-2xl select-none`,
   };
 
   return (
